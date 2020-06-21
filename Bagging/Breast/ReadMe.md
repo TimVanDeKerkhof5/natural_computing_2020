@@ -6,3 +6,5 @@ Please follow this url:
     https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 Nothing else needs to be adapted in order to run this script.
+
+Breast.csv contains the output of the script
