@@ -5,3 +5,5 @@ The dataset can be downloaded from the following link:
     https://www.kaggle.com/c/forest-cover-type-prediction
     
 The results can be found in the CSV file.
+
+Unfortunately the loading bars used while training failed to save and thus are showing up weirdly inside the jupyter.
