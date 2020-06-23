@@ -1,1 +1,7 @@
-this is a placeholder
+For the Forest cover type prediction the full data is available at:
+
+https://www.kaggle.com/c/forest-cover-type-prediction/data
+
+In the ensemble we've used models from the following kernels:
+https://www.kaggle.com/kashnitsky/topic-10-practice-with-logit-rf-and-lightgbm (random forest and lightGBM)
+https://www.kaggle.com/andynath/forest-cover-type-analysis-and-predictions (XGBoost)
